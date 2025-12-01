@@ -21,12 +21,12 @@ Concevoir une plateforme bout-en-bout capable de nettoyer les données composite
 ### Interface de recherche de similarité
 L'interface principale permet de définir les propriétés d'un matériau de référence pour trouver des matériaux similaires dans la base de données.
 
-![Interface de recherche](docs/screenshots/01_interface_accueil.png)
+![Interface de recherche](docs/01_interface_accueil.png)
 
 ### Exploration des matériaux avec filtres
 L'onglet d'exploration libre offre des filtres personnalisés et affiche un tableau interactif des matériaux correspondants, accompagné d'une visualisation des performances mécaniques.
 
-![Exploration avec filtres](docs/screenshots/02_exploration_tableau.png)
+![Exploration avec filtres](docs/02_exploration_tableau.png)
 
 ### Configuration de la recherche de similarité
 Définissez les caractéristiques du matériau recherché (taux de fibre, module élastique, déformation maximale, épaisseur, nombre de cycles).
@@ -36,7 +36,7 @@ Définissez les caractéristiques du matériau recherché (taux de fibre, module
 ### Résultats de la recherche FAISS
 Les résultats affichent les matériaux les plus similaires avec leurs caractéristiques détaillées et une visualisation de leur positionnement dans l'espace des caractéristiques via FAISS.
 
-![Résultats avec visualisation](docs/screenshots/04_similarite_resultats.png)
+![Résultats avec visualisation](docs/04_similarite_resultats.png)
 
 
 ## Résultats
