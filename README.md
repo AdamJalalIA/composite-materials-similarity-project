@@ -160,4 +160,5 @@ Le projet a consisté à transformer cette masse d'informations en une base expl
 ## Auteur
 
 Adam Jalal - Stage L3 Matériaux / Data / Informatique
+
 Aptiskills - 2025
