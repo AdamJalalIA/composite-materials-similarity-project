@@ -21,7 +21,7 @@ Concevoir une plateforme bout-en-bout capable de nettoyer les données composite
 ### Interface de recherche de similarité
 L'interface principale permet de définir les propriétés d'un matériau de référence pour trouver des matériaux similaires dans la base de données.
 
-![Interface de recherche]("composite-materials-similarity-project\docs\01_interface_principale.png")
+![Interface de recherche]("docs\01_interface_principale.png")
 
 ### Exploration des matériaux avec filtres
 L'onglet d'exploration libre offre des filtres personnalisés et affiche un tableau interactif des matériaux correspondants, accompagné d'une visualisation des performances mécaniques.
