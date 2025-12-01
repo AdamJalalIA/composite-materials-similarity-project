@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+faiss-cpu
+streamlit
+altair>=4.2,<5

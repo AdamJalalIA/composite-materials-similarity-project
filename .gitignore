@@ -1,0 +1,42 @@
+# Environnement virtuel
+faiss_env/
+faiss_env_39/
+.venv/
+env/
+venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Fichiers temporaires Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Clés/API/variables sensibles
+.env
+*.key
+*.pem
+
+# Logs
+*.log
+
+# Base de données temporaires (garder materiaux.db mais ignorer les tests)
+test.db
+*.db-journal
